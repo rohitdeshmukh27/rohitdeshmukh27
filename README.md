@@ -121,28 +121,6 @@
   </a>
 </div>
 
-<!-- CONTRIBUTION GRAPH WITH SNAKE ANIMATION -->
-<h2>
-  <img src="https://media.giphy.com/media/IzLejEn5juJzO/giphy.gif" width="30">
-  <span>Contribution Graph</span>
-</h2>
-
-<div align="center">
-  <img src="https://github.com/rohitdeshmukh27/rohitdeshmukh27/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</div>
-
-<!-- SUPPORT SECTION -->
-<h2>
-  <img src="https://media.giphy.com/media/L40sNfcoJs5OpbngAk/giphy.gif" width="30">
-  <span>Support</span>
-</h2>
-
-<div align="center">
-  <a href="https://www.buymeacoffee.com/rohitdeshmukh27">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="30" alt="Buy Me A Coffee" />
-  </a>
-</div>
-
 <!-- FOOTER -->
 <br/>
 <p align="center">
