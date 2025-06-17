@@ -176,7 +176,3 @@
 </picture>
 
 ###
-
-<img src="https://raw.githubusercontent.com/rohitdeshmukh27/rohitdeshmukh27/output/snake.svg" alt="Snake animation" />
-
-###
