@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/rohitdeshmukh27/count.svg?"  />
+  <img src="https://counter5.optistats.ovh/private/freecounterstat.php?c=zq6kzzxgkg3ljtamy63nm15u65rjzuqd" border="0" title="website counter" alt="website counter"></a></noscript>
 </div>
 
 ###
