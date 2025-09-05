@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://counter5.optistats.ovh/private/freecounterstat.php?c=zq6kzzxgkg3ljtamy63nm15u65rjzuqd" border="0" title="website counter" alt="website counter"></a></noscript>
+  <a href="https://www.freecounterstat.com" title="free website visitor counter"><img src="https://counter5.optistats.ovh/private/freecounterstat.php?c=j9eaw2j312j8a8gmwlq8a5xat8uggwpx" border="0" title="free website visitor counter" alt="free website visitor counter"></a>
 </div>
 
 ###
