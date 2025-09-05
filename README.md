@@ -3,7 +3,9 @@
 ###
 
 <div align="center">
-  <img src="https://counter5.optistats.ovh/private/freecounterstat.php?c=j9eaw2j312j8a8gmwlq8a5xat8uggwpx" alt="visitor counter"/>
+  
+  ![Profile views](https://komarev.com/ghpvc/?username=rohitdeshmukh27&label=VISITORS&color=brightgreen&style=for-the-badge)
+
 </div>
 
 ###
