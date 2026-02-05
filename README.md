@@ -133,7 +133,7 @@
   <!-- Streak Stats -->
 
 <img 
-    src="https://streak-stats.demolab.com?user=rohitdeshmukh27&theme=dracula&hide_border=false" 
+    src="https://nirzak-streak-stats.vercel.app/?user=rohitdeshmukh27&theme=tokyonight" 
     height="300" 
     alt="GitHub Streak" 
   />
