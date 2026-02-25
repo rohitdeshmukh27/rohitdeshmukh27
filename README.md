@@ -74,7 +74,10 @@
   <img src="https://user-images.githubusercontent.com/74038190/212897782-96581536-54a0-4b87-87b4-5e55f95e8a8b.gif" alt="fun gif 2" />
   <img width="20" />
 
-  ---
+  <h1></h1>
   
   <img src="https://media.tenor.com/-0u_GCY-iDEAAAAM/homer-simpson.gif" alt="fun gif 3" />
+
+<h1></h1>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTVoOXVjNG5mNW1iZ3Z6cnA0bDE1bXltc3ZkYXhqNjFiM2E5cG5lYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/z835RsRqQHOlC4rsBr/giphy.gif" alt="Some or my popular work" />
 </div>
