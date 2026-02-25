@@ -1,164 +1,80 @@
-<h1 align="center">Hello 👋I'm Rohit Deshmukh</h1>
-
-###
-
 <div align="center">
-  
-  ![Profile views](https://komarev.com/ghpvc/?username=rohitdeshmukh27&label=VISITORS&color=brightgreen&style=for-the-badge)
-
+  <p>whoami</p>
+  <p>
+    <img src="https://camo.githubusercontent.com/242ff63f07db8e98fe82bf85ab34c815393145b9f5431688654b0d28161eaaad/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f676974687562706172726f742e676966" height="45"/>
+    &nbsp;&nbsp;Rohit Deshmukh&nbsp;&nbsp;
+    <img src="https://camo.githubusercontent.com/242ff63f07db8e98fe82bf85ab34c815393145b9f5431688654b0d28161eaaad/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f676974687562706172726f742e676966" height="45"/>
+  </p>
 </div>
 
-###
-
-<p align="left">🚀 Strong Proficiency</p>
-
-###
+<h1></h1>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="48" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="48" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="48" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="48" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="48" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="48" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="48" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="48" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="48" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="48" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="48" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="48" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="48" alt="typescript logo"  />
+  <p>dependencies</p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="48" alt="nextjs logo"/>
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="48" alt="express logo"/>
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="48" alt="react logo"/>
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="48" alt="linux logo"/>
 </div>
 
-###
-
-<p align="left">💻 Software Tools</p>
-
-###
+<h1></h1>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="40" alt="firefox logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg" height="40" alt="opera logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="rstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
-</div>
-
-###
-
-<p align="left">🔗 Social Links</p>
-
-###
-
-<div align="center">
+  <p>endpoints</p>
   <a href="https://www.linkedin.com/in/rohitdeshmukh27/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo" />
   </a>
-  <a href="rohitvd27@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo"  />
+  <a href="mailto:rohitvd27@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo" />
   </a>
   <a href="https://www.instagram.com/rohitvd27/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="37" height="25" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="37" height="25" alt="instagram logo" />
   </a>
   <a href="https://www.youtube.com/@rohitdeshmukh27" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="37" height="25" alt="youtube logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="37" height="25" alt="youtube logo" />
   </a>
   <a href="https://tryhackme.com/p/rohitdeshmukh27" target="_blank">
-    <img src="https://tryhackme.com/img/favicon.png" width="25" height="25" alt="linkedin logo"  />
+    <img src="https://tryhackme.com/img/favicon.png" width="25" height="25" alt="tryhackme logo" />
   </a>
 </div>
 
-###
-
-<p align="left">📊 GitHub Stats</p>
-
-###
+<h1></h1>
 
 <div align="center">
-
-<br/>
-
-  <!-- Streak Stats -->
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/rohitdeshmukh27.png" alt="Your Image Badge" />
-<br/>
-  <!-- Streak Stats -->
-
-<img 
-    src="https://nirzak-streak-stats.vercel.app/?user=rohitdeshmukh27&theme=tokyonight" 
-    height="300" 
-    alt="GitHub Streak" 
-  />
-<br/>
-
-  <!-- Activity Graph -->
-
-<img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=rohitdeshmukh27&theme=dracula&hide_border=false&area=true" 
-    height="300" 
-    alt="GitHub Activity Graph" 
-  />
-
+  <p>metrics</p>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/rohitdeshmukh27.png" alt="Your Image Badge" />
+  <br/>
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=rohitdeshmukh27&theme=tokyonight" height="300" alt="GitHub Streak" />
+  <br/>
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohitdeshmukh27&theme=dracula&hide_border=false&area=true" height="300" alt="GitHub Activity Graph" />
 </div>
 
-###
+<h1></h1>
 
-<p align="left">🟢 Contribution Activity (or Contribution Calendar)</p>
+<div align="center">
+  <p>activity</p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rohitdeshmukh27/rohitdeshmukh27/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rohitdeshmukh27/rohitdeshmukh27/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rohitdeshmukh27/rohitdeshmukh27/output/pacman-contribution-graph.svg">
+  </picture>
+</div>
 
-###
+<h1></h1>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rohitdeshmukh27/rohitdeshmukh27/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rohitdeshmukh27/rohitdeshmukh27/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rohitdeshmukh27/rohitdeshmukh27/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+  <p>fun</p>
+  <img src="https://user-images.githubusercontent.com/74038190/216644507-4f06ea29-bf55-4356-aac0-d42751461a9d.gif" alt="fun gif 1" />
+  <img width="20" />
+  <img src="https://user-images.githubusercontent.com/74038190/212897782-96581536-54a0-4b87-87b4-5e55f95e8a8b.gif" alt="fun gif 2" />
+  <img width="20" />
 
-###
+  ---
+  
+  <img src="https://private-user-images.githubusercontent.com/74038190/240820708-9db4b864-a764-468f-9052-7bfa1bfe9a74.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzIwMTQ2NzUsIm5iZiI6MTc3MjAxNDM3NSwicGF0aCI6Ii83NDAzODE5MC8yNDA4MjA3MDgtOWRiNGI4NjQtYTc2NC00NjhmLTkwNTItN2JmYTFiZmU5YTc0LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAyMjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMjI1VDEwMTI1NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTU1MzRlNDExMzlhNzQ0MzU3YTc4ZDU3NDc0ZmE4MGRmYWFmNTllNzNlMGMwZmY1Yjk2ZTVmYjVhNzdiZjUwMjgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.FBWXwXlPA6CQZ5w_9pKgG-sPVGBa8p6-5zI5COoRgok" alt="fun gif 3" />
+</div>
