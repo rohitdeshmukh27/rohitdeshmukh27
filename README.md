@@ -1,7 +1,11 @@
 <!-- ╔══════════════════════════════════════════════════════════╗ -->
 <!-- ║                        WHOAMI                           ║ -->
 <!-- ╚══════════════════════════════════════════════════════════╝ -->
+<div align="center">
+  
+  ![Profile views](https://komarev.com/ghpvc/?username=rohitdeshmukh27&label=VISITORS&color=brightgreen&style=for-the-badge)
 
+</div>
 <div align="center">
   <h3>/whoami</h3>
   <img src="https://camo.githubusercontent.com/242ff63f07db8e98fe82bf85ab34c815393145b9f5431688654b0d28161eaaad/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f676974687562706172726f742e676966" height="30" alt="party parrot"/>
