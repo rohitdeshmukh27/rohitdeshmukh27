@@ -71,7 +71,7 @@
   <h3>metrics()</h3>
   <img src="https://tryhackme-badges.s3.amazonaws.com/rohitdeshmukh27.png" alt="TryHackMe Badge" />
   <br/><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=rohitdeshmukh27&theme=tokyonight" width="600" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=rohitdeshmukh27" width="600" alt="GitHub Streak" />
   <br/><br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohitdeshmukh27&theme=dracula&hide_border=false&area=true" width="600" alt="GitHub Activity Graph" />
 </div>
