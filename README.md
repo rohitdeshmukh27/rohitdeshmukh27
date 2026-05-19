@@ -4,7 +4,7 @@
 
 # Rohit V Deshmukh
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF9C&center=true&vCenter=true&width=900&lines=Code.......;Scale........;Secure......;" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF9C&center=true&vCenter=true&width=900&lines=Code...;Scale...;Secure...;" />
 
 </div>
 
