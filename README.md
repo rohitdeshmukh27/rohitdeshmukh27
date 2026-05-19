@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋I'm Rohit Deshmukh</h1>
+<h1 align="center">Hello I'm Rohit Deshmukh</h1>
 
 ###
 
@@ -50,7 +50,7 @@
 
 ###
 
-<p align="left">💻 Software Tools</p>
+<p align="left">Software Tools</p>
 
 ###
 
@@ -94,7 +94,7 @@
 
 ###
 
-<p align="left">🔗 Social Links</p>
+<p align="left">Social Links</p>
 
 ###
 
@@ -118,7 +118,7 @@
 
 ###
 
-<p align="left">📊 GitHub Stats</p>
+<p align="left">GitHub Stats</p>
 
 ###
 
@@ -151,7 +151,7 @@
 
 ###
 
-<p align="left">🟢 Contribution Activity (or Contribution Calendar)</p>
+<p align="left">Contribution Activity (or Contribution Calendar)</p>
 
 ###
 
