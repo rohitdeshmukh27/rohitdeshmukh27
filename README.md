@@ -17,7 +17,6 @@
 [LinkedIn](https://www.linkedin.com/in/rohitdeshmukh27/) • 
 [Email](mailto:rohitvd27@gmail.com) • 
 [Instagram](https://www.instagram.com/rohitvd27/) • 
-[YouTube](https://www.youtube.com/@rohitdeshmukh27) • 
 [TryHackMe](https://tryhackme.com/p/rohitdeshmukh27)
 
 </p>
